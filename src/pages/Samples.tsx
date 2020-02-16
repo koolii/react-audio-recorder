@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { UserMediaDevices } from '../components/UserMediaDevices';
 import { Recording } from '../components/Recording';
 
 export const Samples: React.FC = () => {
@@ -11,6 +12,9 @@ export const Samples: React.FC = () => {
 
   return (
     <div>
+      <div>
+        <UserMediaDevices />
+      </div>
       <div>
         <h2>1. cleandersonlobo/react-mic</h2>
         <Recording />

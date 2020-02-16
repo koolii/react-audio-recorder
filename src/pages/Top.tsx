@@ -10,7 +10,7 @@ export const Top: React.FC = () => {
         <h2>Target</h2>
         <span>iOS/Android</span>
         <img src={logo} className="App-logo" alt="logo" />
-        <Link to="/samples">
+        <Link to="/react-audio-recorder/samples">
           CLICK HERE
         </Link>
       </header>
