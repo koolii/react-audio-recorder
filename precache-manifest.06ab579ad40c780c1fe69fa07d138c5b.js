@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60cf400ae21966a67d46c6979b4aa978",
+    "revision": "c7060a94a761de9216a7712aeb5d3d02",
     "url": "/react-audio-recorder/index.html"
   },
   {
-    "revision": "9648626e4be017c28d85",
+    "revision": "ea0dedea46504f288050",
     "url": "/react-audio-recorder/static/css/main.def1bdb0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-audio-recorder/static/js/2.e7fec8d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9648626e4be017c28d85",
-    "url": "/react-audio-recorder/static/js/main.b35f4085.chunk.js"
+    "revision": "ea0dedea46504f288050",
+    "url": "/react-audio-recorder/static/js/main.f4723d2b.chunk.js"
   },
   {
     "revision": "9b6d0bc34f70da774c0f",
