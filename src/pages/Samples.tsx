@@ -1,14 +1,15 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { UserMediaDevices } from '../components/UserMediaDevices';
 import { Recording } from '../components/Recording';
+import { VoiceRecorder } from '../components/VoiceRecorder';
 
 export const Samples: React.FC = () => {
-  const [clickedReactMic, setClickedReactMid] = useState(false);
-  const handleClick = (e: React.MouseEvent) => {
-    e.preventDefault();
-    setClickedReactMid(true);
-    console.log("clicked");
-  };
+  // const [clickedReactMic, setClickedReactMid] = useState(false);
+  // const handleClick = (e: React.MouseEvent) => {
+  //   e.preventDefault();
+  //   setClickedReactMid(true);
+  //   console.log("clicked");
+  // };
 
   return (
     <div>
@@ -27,6 +28,10 @@ export const Samples: React.FC = () => {
             stop
           </button>
         )} */}
+      </div>
+      <div>
+        <h2>VoiceRecorder</h2>
+        <VoiceRecorder />
       </div>
     </div>
   )

@@ -1,6 +1,7 @@
 import React from "react";
 import logo from '../logo.svg';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
+import { Samples } from './Samples';
 
 export const Top: React.FC = () => {
   return (
@@ -10,9 +11,11 @@ export const Top: React.FC = () => {
         <h2>Target</h2>
         <span>iOS/Android</span>
         <img src={logo} className="App-logo" alt="logo" />
-        <Link to="/react-audio-recorder/samples">
+        {/* <Link to="/samples">
           CLICK HERE
-        </Link>
+        </Link> */}
+
+        <Samples />
       </header>
     </div>
   )
