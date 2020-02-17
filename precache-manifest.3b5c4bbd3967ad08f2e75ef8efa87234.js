@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a21707c0f8311a45f84d9f1abe948f18",
+    "revision": "bb29650fda1639bfaba6967e0ecc039f",
     "url": "/react-audio-recorder/index.html"
   },
   {
-    "revision": "b9e5c9622c49ee2eb3da",
+    "revision": "cfc73cbb4bed3c0a224c",
     "url": "/react-audio-recorder/static/css/main.def1bdb0.chunk.css"
   },
   {
-    "revision": "a137c9d3cfd1ebeedb09",
-    "url": "/react-audio-recorder/static/js/2.e7fec8d4.chunk.js"
+    "revision": "1ba6ba408646cdb3ba14",
+    "url": "/react-audio-recorder/static/js/2.96f6b15f.chunk.js"
   },
   {
-    "revision": "928d7b5eb39d16fe9a880722c974b51e",
-    "url": "/react-audio-recorder/static/js/2.e7fec8d4.chunk.js.LICENSE.txt"
+    "revision": "906b97db1822f1b5a864294e25cfe414",
+    "url": "/react-audio-recorder/static/js/2.96f6b15f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b9e5c9622c49ee2eb3da",
-    "url": "/react-audio-recorder/static/js/main.6ea6e86e.chunk.js"
+    "revision": "cfc73cbb4bed3c0a224c",
+    "url": "/react-audio-recorder/static/js/main.f44812b9.chunk.js"
   },
   {
     "revision": "9b6d0bc34f70da774c0f",
