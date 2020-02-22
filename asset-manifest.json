@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-audio-recorder/static/css/main.def1bdb0.chunk.css",
-    "main.js": "/react-audio-recorder/static/js/main.af5189b6.chunk.js",
-    "main.js.map": "/react-audio-recorder/static/js/main.af5189b6.chunk.js.map",
+    "main.js": "/react-audio-recorder/static/js/main.ae1cb09e.chunk.js",
+    "main.js.map": "/react-audio-recorder/static/js/main.ae1cb09e.chunk.js.map",
     "runtime-main.js": "/react-audio-recorder/static/js/runtime-main.58c27a9b.js",
     "runtime-main.js.map": "/react-audio-recorder/static/js/runtime-main.58c27a9b.js.map",
     "static/js/2.38392781.chunk.js": "/react-audio-recorder/static/js/2.38392781.chunk.js",
     "static/js/2.38392781.chunk.js.map": "/react-audio-recorder/static/js/2.38392781.chunk.js.map",
     "index.html": "/react-audio-recorder/index.html",
-    "precache-manifest.c94a66faf4c2420b892fa1eba1972e77.js": "/react-audio-recorder/precache-manifest.c94a66faf4c2420b892fa1eba1972e77.js",
+    "precache-manifest.479a9984c5fd5943372751d7dc4447b1.js": "/react-audio-recorder/precache-manifest.479a9984c5fd5943372751d7dc4447b1.js",
     "service-worker.js": "/react-audio-recorder/service-worker.js",
     "static/css/main.def1bdb0.chunk.css.map": "/react-audio-recorder/static/css/main.def1bdb0.chunk.css.map",
     "static/js/2.38392781.chunk.js.LICENSE.txt": "/react-audio-recorder/static/js/2.38392781.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.58c27a9b.js",
     "static/js/2.38392781.chunk.js",
     "static/css/main.def1bdb0.chunk.css",
-    "static/js/main.af5189b6.chunk.js"
+    "static/js/main.ae1cb09e.chunk.js"
   ]
 }
